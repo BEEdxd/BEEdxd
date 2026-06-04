@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.gif" alt="Profile Animation" width="100%" style="border-radius: 10px;" />
+  <img src="WhatsAppVideo2026-06-04at17.40.55-ezgif.com-video-to-gif-converter.gif" alt="Profile Animation" width="100%" style="border-radius: 10px;" />
 </div>
 <h1 align="center">Hi 👋, I'm Ajay</h1>
 <h3 align="center">SleepyOWL🦉</h3>
